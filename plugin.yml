@@ -1,0 +1,5 @@
+name: HarvestCrop
+author: sh1omi
+main: me.sh1omi.harvestcrop.MainClass
+version: 1.0
+description: Right click on crop to harvest.
